@@ -1130,7 +1130,7 @@ h: No nic. Nové oznámení na Tinderu.
 
 `bb({eyes:"uncertain"})`
 
-b: Co, ta seznamovací aplikace na jednorázovky?
+b: Co, ta seznamovací aplikace na jednorázovky? 
 `hong({eyes:"annoyed"})`
 
 h: Není to aplikace na jednorázovky, je to jen způsob, jak poznat nové lid--
