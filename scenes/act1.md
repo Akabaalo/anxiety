@@ -472,7 +472,7 @@ b: Takže jo, měli bychom jít na tu párty!
 {{/if}}
 
 {{if _.parasite}}
-b: Jen si dones laptop, ať můžeme pracovat a nebýt parazity společnosti..
+b: Jen si dones laptop, ať můžeme pracovat a nebýt parazity společnosti.
 {{/if}}
 
 {{if _.whitebread}}
@@ -1131,6 +1131,7 @@ h: No nic. Nové oznámení na Tinderu.
 `bb({eyes:"uncertain"})`
 
 b: Co, ta seznamovací aplikace na jednorázovky? 
+
 `hong({eyes:"annoyed"})`
 
 h: Není to aplikace na jednorázovky, je to jen způsob, jak poznat nové lid--
