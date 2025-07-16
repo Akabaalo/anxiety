@@ -568,7 +568,7 @@ b: Takže když půjdeme, budou se cítit špatně, ale když odmítneme, tak se
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-b: VŠE, CO DĚLÁME, JE, ŽE V LIDÍCH VYVOLÁVÁME ŠPATNÝÉ POCITY, MĚLI BYCHOM SE TAKY CÍTIT ŠPATNĚ
+b: VŠE, CO DĚLÁME, JE, ŽE V LIDECH VYVOLÁVÁME ŠPATNÉ POCITY, MĚLI BYCHOM SE TAKY CÍTIT ŠPATNĚ
 
 ```
 hong({mouth:"shock", eyes:"shock"});
