@@ -208,13 +208,13 @@ b: Člověče! Poslouchej, jsme v nebezpečí! To nebezpečí je...
 
 `bb({body:"squeeze"})`
 
-n4: (NECH _SVOU_ ÚZKOST JÍT SI HRÁT! VYBER, CO NEJVÍC ODPOVÍDÁ TOMU, CO TI ŘÍKÁ _YTVŮJ_ STRACH)
+n4: (NECH _SVOU_ ÚZKOST JÍT SI HRÁT! VYBER, CO NEJVÍC ODPOVÍDÁ TOMU, CO TI ŘÍKÁ _TVŮJ_ STRACH)
 
 (#act1_normal_choice)
 
 # act1_normal_choice
 
-[Znova na objedě jíme o samotě! Znova!](#act1a_alone) `bb({body:"squeeze_talk"})`
+[Znova na obědě jíme o samotě! Znova!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
 [Nejsme produktivní když jíme!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
@@ -357,7 +357,7 @@ b: Věř své intuici! Tvé pocity jsou vždy odůvodněné!
 
 `bb({body:"pride"});`
 
-n: SNÍŽTE ENERGETICKOU HODNOTU SVÉHO ČLOVĚKA NA NULU
+n: SNIŽTE ENERGETICKOU HODNOTU SVÉHO ČLOVĚKA NA NULU
 
 n: PRO OCHRANU JEJICH FYZICKÝCH + SOCIÁLNÍCH + MORÁLNÍCH POTŘEB, MŮŽETE POUŽÍT:
 
@@ -369,7 +369,7 @@ n: A STRACH Z *VLASTNÍ ŠPATNOSTI* #bad#
 
 `Game.OVERRIDE_TEXT_SPEED = 1.25;`
 
-n4: (PRO-TIP: POUŽIJ TY VOLBY, KTERÉ TI OSOBNĚ ZASÁHNOU DO NEJHLUBŠÍCH, TEMNÝCH STRACHŮ!~)
+n4: (POZNÁMKA: POUŽIJ TY VOLBY, KTERÉ TI OSOBNĚ ZASÁHNOU DO NEJHLUBŠÍCH, TEMNÝCH STRACHŮ!~)
 
 h: ...
 
@@ -568,7 +568,7 @@ b: Takže když půjdeme, budou se cítit špatně, ale když odmítneme, tak se
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-b: VŠE, CO DĚLÁME, JE, ŽE V LIDÍCH VYVOLÁVÁME ŠPATNÝ POCIT, TAKŽE BYCHOM SE MĚLI CÍTIT ŠPATNĚ
+b: VŠE, CO DĚLÁME, JE, ŽE V LIDÍCH VYVOLÁVÁME ŠPATNÝÉ POCITY, MĚLI BYCHOM SE TAKY CÍTIT ŠPATNĚ
 
 ```
 hong({mouth:"shock", eyes:"shock"});
